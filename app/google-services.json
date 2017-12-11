@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794798131734",
+    "firebase_url": "https://myfirebasertdb.firebaseio.com",
+    "project_id": "myfirebasertdb",
+    "storage_bucket": "myfirebasertdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794798131734:android:b604c1f1b5a75147",
+        "android_client_info": {
+          "package_name": "com.example.win81.myfirebasertdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794798131734-c31s5sgiadnsahc89v6rfq658d7all8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win81.myfirebasertdb",
+            "certificate_hash": "14fafd3ace0a17fa00290784eb45a0bc398b6ba6"
+          }
+        },
+        {
+          "client_id": "794798131734-b15q9nmfun6cfu41ljd77a4tvvannmju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DZZuw8xJxv2KcDYBXFWMXCLKv4wBH4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794798131734-b15q9nmfun6cfu41ljd77a4tvvannmju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

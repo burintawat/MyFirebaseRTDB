@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirebaseRTDB</string>
+    <string name="et_user">Enter User Here.</string>
+    <string name="et_message">Enter Message Here.</string>
+    <string name="btn_save">Save Message</string>
+    <string name="btn_show">Show</string>
+</resources>
